@@ -1,0 +1,4 @@
+code=212	desc=Colleague P1.7
+code=204	desc=Colleague IB PMU
+code=220	desc=Colleague P1.7 Rework		
+code=221	desc=Colleague IB PMU Rework		

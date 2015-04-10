@@ -1,0 +1,2 @@
+sensor-reckeck=QR-MED-CP-R-001-A
+
